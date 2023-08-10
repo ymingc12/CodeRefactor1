@@ -15,3 +15,5 @@ Screenshots of webpage:
 Link to the repository: https://github.com/YC937/CodeRefactor1
 
 Link to the deployed website: https://yc937.github.io/CodeRefactor1/
+
+&copy;Copyright YM C
