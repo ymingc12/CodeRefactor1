@@ -95,12 +95,7 @@ article h2 {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Styling of aside section */
 aside {
     margin-right: 20px;
     padding: 20px;
