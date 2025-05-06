@@ -12,8 +12,8 @@ Screenshots of webpage:
 
 #
 
-Link to the repository: https://github.com/YC937/CodeRefactor1
+Link to the repository: https://github.com/ymingc12/CodeRefactor1
 
-Link to the deployed website: https://yc937.github.io/CodeRefactor1/
+Link to the deployed website: https://ymingc12.github.io/CodeRefactor1/
 
 &copy;Copyright YM C
